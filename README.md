@@ -1,5 +1,5 @@
 # CopyScreenshots
-Copies your screenshots for your mac into a subfolder.
+Moves your screenshots into a subfolder for your mac to help you stay organized.
 
 **Usage:**
 
